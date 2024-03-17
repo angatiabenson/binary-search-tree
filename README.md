@@ -19,7 +19,7 @@ The project is divided into three main classes:
 
 ## Requirements
 
-- Java Development Kit (JDK) 8 or above.
+- Java Development Kit (JDK) 20 or above.
 - IntelliJ IDEA (Community or Ultimate Edition) for project setup and execution.
 
 ## Setup and Execution
